@@ -1,0 +1,13 @@
+/.idea
+/.vs
+/.vscode
+/Content
+/DerivedDataCache
+/Intermediate
+/Platforms
+/Saved
+/Plugins/CommonGame/Intermediate
+/Plugins/CommonUI/Content
+/Plugins/CommonUI/Intermediate
+/Plugins/CommonUser/Intermediate
+/Plugins/ModularGameplayActors/Intermediate

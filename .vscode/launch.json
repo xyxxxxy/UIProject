@@ -1,0 +1,152 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Launch UIProject (Debug)",
+			"request": "launch",
+			"program": "E:\\Dowload\\UEdownload\\UIProject\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"preLaunchTask": "UIProject Win64 Debug Build",
+			"args": [
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProject (DebugGame)",
+			"request": "launch",
+			"program": "E:\\Dowload\\UEdownload\\UIProject\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"preLaunchTask": "UIProject Win64 DebugGame Build",
+			"args": [
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProject (Development)",
+			"request": "launch",
+			"program": "E:\\Dowload\\UEdownload\\UIProject\\Binaries\\Win64\\UnrealGame.exe",
+			"preLaunchTask": "UIProject Win64 Development Build",
+			"args": [
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProject (Test)",
+			"request": "launch",
+			"program": "E:\\Dowload\\UEdownload\\UIProject\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"preLaunchTask": "UIProject Win64 Test Build",
+			"args": [
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProject (Shipping)",
+			"request": "launch",
+			"program": "E:\\Dowload\\UEdownload\\UIProject\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"preLaunchTask": "UIProject Win64 Shipping Build",
+			"args": [
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProjectEditor (Debug)",
+			"request": "launch",
+			"program": "E:\\UE\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+			"preLaunchTask": "UIProjectEditor Win64 Debug Build",
+			"args": [
+				"E:\\Dowload\\UEdownload\\UIProject\\UIProject.uproject"
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProjectEditor (DebugGame)",
+			"request": "launch",
+			"program": "E:\\UE\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+			"preLaunchTask": "UIProjectEditor Win64 DebugGame Build",
+			"args": [
+				"E:\\Dowload\\UEdownload\\UIProject\\UIProject.uproject"
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Launch UIProjectEditor (Development)",
+			"request": "launch",
+			"program": "E:\\UE\\UE_5.2\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+			"preLaunchTask": "UIProjectEditor Win64 Development Build",
+			"args": [
+				"E:\\Dowload\\UEdownload\\UIProject\\UIProject.uproject"
+			],
+			"cwd": "E:\\UE\\UE_5.2",
+			"stopAtEntry": false,
+			"console": "externalTerminal",
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\UE\\UE_5.2\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+			"sourceFileMap": {
+				"D:\\build\\++UE5\\Sync": "E:\\UE\\UE_5.2"
+			}
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "coreclr",
+			"request": "launch",
+			"program": "E:\\UE\\UE_5.2\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=E:\\Dowload\\UEdownload\\UIProject\\UIProject.uproject",
+				"-game",
+				"-engine"
+			],
+			"console": "externalTerminal",
+			"stopAtEntry": false,
+			"cwd": "E:\\UE\\UE_5.2"
+		}
+	]
+}
